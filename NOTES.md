@@ -31,3 +31,7 @@ vinagre localhost:5905
 
 https://www.tonymacx86.com/threads/how-to-set-clover-to-automatically-boot-system-drive.174322/
 
+## Misc
+
+OVMF_VARS-1024x768.fd gets changed
+
